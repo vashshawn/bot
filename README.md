@@ -33,5 +33,7 @@ Bot Commands
 -timeanswer `Set and Get: Time to answer a question`
 
 ----------
+
 Developed by [bmatusiak](https://github.com/bmatusiak) and [lime](https://github.com/everie)
+
 Hosted @ [Heroku](http://heroku.com)
