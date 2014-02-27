@@ -9,7 +9,7 @@ This bot resides on freenode's irc channel #rubyTrivia
 
 ----------
 
-commands
+Bot Commands
 ----
 
 -trivia `Start: Trivia Bot`
@@ -33,4 +33,5 @@ commands
 -timeanswer `Set and Get: Time to answer a question`
 
 ----------
-Developed by bmatusiak and lime
+Developed by [bmatusiak](https://github.com/bmatusiak) and [lime](https://github.com/everie)
+Hosted @ [Heroku](http://heroku.com)
