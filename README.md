@@ -14,6 +14,10 @@ commands
 
 -trivia `Start: Trivia Bot`
 
+-killtrivia `Stop: Trivia Bot`
+
+-next `Continue: to next question`
+
 -questions `Display: How many questions are on the bot`
 
 -stats `Display: Personal stats`
@@ -21,10 +25,6 @@ commands
 -issue `Display: Issue Link`
 
 -reward <amount> `Set and Get: reward`
-
--next `Continue: to next question`
-
--killtrivia `Stop: Trivia Bot`
 
 -timekill `Set and Get: Amount of question with no ansers to stop bot`
 
